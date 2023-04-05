@@ -1,6 +1,6 @@
 {
   "context": {
-    "domain": "nic2004:60232",
+    "domain": "nic2004:60232", 
     "country": "IND",
     "city": "std:080",
     "action": "on_init",

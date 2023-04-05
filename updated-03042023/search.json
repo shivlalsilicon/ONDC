@@ -58,7 +58,7 @@
           "currency": "INR",
           "value": "450.11"
         },
-        "dimensions": {
+        "dimensions": { 
           "height": {
             "unit": "meter",
             "value": 1

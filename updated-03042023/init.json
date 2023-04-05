@@ -31,7 +31,7 @@
       "fulfillments": [
         {
           "id": "1",
-          "type": "Prepaid",
+          "type": "Prepaid", 
           "start": {
             "location": {
               "gps": "12.96774,77.588913",

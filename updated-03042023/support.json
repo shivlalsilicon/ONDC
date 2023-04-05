@@ -1,0 +1,20 @@
+{
+  "context": {
+    "domain": "nic2004:60232",
+    "country": "IND",
+    "city": "std:080",
+    "action": "support",
+    "core_version": "1.1.0",
+    "bap_id": "staging-ondc-seller.viranc.com",
+    "bap_uri": "https://staging-ondc-seller.viranc.com/p/v1/retail/bapl",
+    "bpp_id": "sevasetu.in",
+    "bpp_uri": "https://sevasetulocal.silicontechnolabs.com/ondc/default/",
+    "transaction_id": "d5880c16-ecdf-5062-a208-65816650ea74",
+    "message_id": "065c55f0-7dcd-4d49-b63b-749e6e881852",
+    "timestamp": "2023-04-04T15:03:54.024Z",
+    "ttl": "PT30S"
+  },
+  "message": {
+    "ref_id": "d5880c16-ecdf-5062-a208-65816650ea74"
+  }
+}

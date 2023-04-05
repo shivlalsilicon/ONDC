@@ -22,5 +22,16 @@ ONDC protocols would standardize operations like cataloguing, inventory manageme
 ONDC is expected to make e-Commerce more inclusive and accessible for consumers. Consumers can potentially discover any seller, product or service by using any compatible application or platform, thus increasing freedom of choice for consumers. It will enable the consumers to match demand with the nearest available supply. This would also give consumers the liberty to choose their preferred local businesses. Thus, ONDC would standardize operations, promote inclusion of local suppliers, drive efficiencies in logistics and lead to enhancement of value for consumers. 
 
 
+
+## Links
+
+- 	Testing site for buyer app
+	(https://buyer-app.ondc.org/login)
+
+- 	ONDC - API Contract for Logistics (v1.1.0)
+	(https://docs.google.com/document/d/10GpEuKZE2g96DFJT3HKq6wIEMhPC-kkMZhXNn2jHHXc/edit?usp=sharing)
+
+
+
 ##Testing site for buyer app
 https://buyer-app.ondc.org/login

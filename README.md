@@ -26,10 +26,10 @@ ONDC is expected to make e-Commerce more inclusive and accessible for consumers.
 ## Links
 
 - 	Testing site for buyer app 
-	[buyer app](https://buyer-app.ondc.org/login)
+	 [link](https://buyer-app.ondc.org/login)
  
 - 	ONDC - API Contract for Logistics (v1.1.0) 
-	[api doc] (https://docs.google.com/document/d/10GpEuKZE2g96DFJT3HKq6wIEMhPC-kkMZhXNn2jHHXc/edit?usp=sharing)
+	 [link](https://docs.google.com/document/d/10GpEuKZE2g96DFJT3HKq6wIEMhPC-kkMZhXNn2jHHXc/edit?usp=sharing)
 
 
 

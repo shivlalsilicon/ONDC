@@ -1,0 +1,94 @@
+{
+  "context": {
+    "domain": "nic2004:60232",
+    "country": "IND",
+    "city": "std:080",
+    "action": "on_search",
+    "core_version": "1.1.0",
+    "bap_id": "staging-ondc-seller.viranc.com",
+    "bap_uri": "https://staging-ondc-seller.viranc.com/p/v1/retail/bapl",
+    "transaction_id": "d5880c16-ecdf-5062-a208-65816650ea74",
+    "message_id": "f231eee9-3cda-54c2-9c28-3f4c0d7d7acc",
+    "timestamp": "2023-04-04T19:40:45.530Z",
+    "bpp_id": "sevasetu.in",
+    "bpp_uri": "https://sevasetulocal.silicontechnolabs.com/ondc/default/"
+  },
+  "message": {
+    "catalog": {
+      "bpp/fulfillments": [
+        {
+          "id": "1",
+          "type": "Prepaid"
+        }
+      ],
+      "bpp/descriptor": {
+        "name": "Shree Maruti Courier Services Pvt Ltd"
+      },
+      "bpp/providers": [
+        {
+          "id": "Shree Maruti",
+          "descriptor": {
+            "name": "Shree Maruti",
+            "short_desc": "Shree Maruti Courier Services Pvt Ltd",
+            "long_desc": "Shree Maruti Courier Services Pvt Ltd"
+          },
+          "categories": [ 
+            {
+              "id": "Standard Delivery",
+              "time": {
+                "label": "TAT",
+                "duration": "P2D"
+              }
+            }
+          ],
+          "locations": [
+            {
+              "id": "Bengaluru-Bomanhalli",
+              "gps": "12.967555,77.749666",
+              "address": {
+                "street": "Jayanagar 4th Block",
+                "city": "Bengaluru",
+                "area_code": "560076",
+                "state": "KA"
+              }
+            }
+          ],
+          "items": [
+            {
+              "id": "Item-1",
+              "parent_item_id": "",
+              "category_id": "Standard Delivery",
+              "fulfillment_id": "1",
+              "descriptor": {
+                "code": "P2H2P",
+                "name": "Standard Delivery",
+                "short_desc": "Standard Delivery",
+                "long_desc": "Standard Delivery"
+              },
+              "price": {
+                "currency": "INR",
+                "value": "50.0"
+              }
+            },
+            {
+              "id": "Item-2",
+              "parent_item_id": "Item-1",
+              "category_id": "Standard Delivery",
+              "fulfillment_id": "1",
+              "descriptor": {
+                "code": "P2H2P",
+                "name": "RTO quote",
+                "short_desc": "RTO quote",
+                "long_desc": "RTO quote"
+              },
+              "price": {
+                "currency": "INR",
+                "value": "20.0"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

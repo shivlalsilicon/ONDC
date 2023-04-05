@@ -1,7 +1,7 @@
 # ONDC
 
 
-url: [API URL](https://https://ondc.org/) 
+url: (https://https://ondc.org/) 
 
 
 Open Network for Digital Commerce (ONDC) is an initiative aiming at promoting open networks for all aspects of exchange of goods and services over digital or electronic networks. ONDC is to be based on open-sourced methodology, using open specifications and open network protocols independent of any specific platform.

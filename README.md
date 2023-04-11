@@ -25,4 +25,4 @@ ONDC is an ambitious initiative to democratize digital commerce by creating a de
 
 -	[v1.1.0-logs - Shiprocket ](https://github.com/ONDC-Official/v1.1.0-logs/tree/main/Shiprocket)
 
--	[Signing Beckn APIs in HTTP] (https://docs.google.com/document/d/1Iw_x-6mtfoMh0KJwL4sqQYM0kD17MLxiMCUOZDBerBo/edit#heading=h.d1j24lrx3uu0)
+-	[Signing Beckn APIs in HTTP](https://docs.google.com/document/d/1Iw_x-6mtfoMh0KJwL4sqQYM0kD17MLxiMCUOZDBerBo/edit#heading=h.d1j24lrx3uu0)

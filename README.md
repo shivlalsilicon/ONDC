@@ -1,5 +1,6 @@
 # ONDC
 
+![Logo](https://github.com/ONDC-Official/.github/raw/main/profile/ONDC-Logo.png)
 
 url: (https://https://ondc.org/) 
 

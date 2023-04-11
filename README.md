@@ -1,6 +1,6 @@
-# ONDC  <img src='https://github.com/ONDC-Official/.github/raw/main/profile/ONDC-Logo.png' width='200px'/>
+# ONDC  <img src='https://github.com/ONDC-Official/.github/raw/main/profile/ONDC-Logo.png' width='300px' style='float:right'/>
 
-![Logo](https://github.com/ONDC-Official/.github/raw/main/profile/ONDC-Logo.png)
+
 
 url: (https://https://ondc.org/) 
 

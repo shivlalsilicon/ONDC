@@ -23,4 +23,4 @@ ONDC is an ambitious initiative to democratize digital commerce by creating a de
 
 -	[Delivery's latest logs - Delhivery-nStore ](https://github.com/ONDC-Official/v1.1.0-logs/tree/main/Delhivery/Delhivery-nStore)
 
--	[v1.1.0-logs - Shiprocket] (https://github.com/ONDC-Official/v1.1.0-logs/tree/main/Shiprocket)
+-	[v1.1.0-logs - Shiprocket ](https://github.com/ONDC-Official/v1.1.0-logs/tree/main/Shiprocket)

@@ -22,3 +22,5 @@ ONDC is an ambitious initiative to democratize digital commerce by creating a de
 -	[ONDC- City-State Codes ](https://docs.google.com/spreadsheets/d/1BtABwe4CXgN_sHIvDH51dJeYzRWdAhedYtzx10apOTs/edit#gid=0)
 
 -	[Delivery's latest logs - Delhivery-nStore ](https://github.com/ONDC-Official/v1.1.0-logs/tree/main/Delhivery/Delhivery-nStore)
+
+-	[v1.1.0-logs - Shiprocket] (https://github.com/ONDC-Official/v1.1.0-logs/tree/main/Shiprocket)

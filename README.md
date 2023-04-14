@@ -27,6 +27,11 @@ ONDC is an ambitious initiative to democratize digital commerce by creating a de
 
 -	[Signing Beckn APIs in HTTP](https://docs.google.com/document/d/1Iw_x-6mtfoMh0KJwL4sqQYM0kD17MLxiMCUOZDBerBo/edit#heading=h.d1j24lrx3uu0)
 
+-	[Error Codes draft document from the Beckn Foundation](https://github.com/beckn/protocol-specifications/blob/draft/docs/protocol-drafts/BECKN-RFC-005-Error-Codes-Draft-01.md)
+
+
+
+
 
 ## Swaggerhub Links
 - 	[Website:ONDC](https://app.swaggerhub.com/apis/ONDC/ONDC-Registry-Onboarding/2.0.5)  

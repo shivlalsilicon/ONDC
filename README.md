@@ -2,6 +2,7 @@
 
 ONDC is an ambitious initiative to democratize digital commerce by creating a decentralized network of buyer apps and seller apps through an interoperable protocol specification.
 
+## [Programming languages whose standard library includes support for libsodium](https://libsodium.gitbook.io/doc/bindings_for_other_languages)
 
 ## Links
 
